@@ -1,0 +1,18 @@
+{
+  "name": "checkout-vue2",
+  "version": "1.0.0",
+  "description": "开发购物车功能",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "guang",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.3.4",
+    "vue-resource": "^1.3.4"
+  }
+}
